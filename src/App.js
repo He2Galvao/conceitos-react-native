@@ -24,7 +24,7 @@ export default function App() {
 
           <View style={styles.techsContainer}>
             <Text style={styles.tech}>
-              ReactJS
+              Helio
             </Text>
             <Text style={styles.tech}>
               Node.js
